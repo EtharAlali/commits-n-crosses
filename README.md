@@ -13,9 +13,9 @@ Commits N Crosses
 
 -------------
 
- Player X: [name]
+ Player X: Ethar 1
  
- Player O: [name]
+ Player O: Ethar 2
 
 -------------
 
